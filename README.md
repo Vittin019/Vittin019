@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Vittin019/Vittin019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil!
 
-Here are some ideas to get you started:
+### Projetos de lógica digital
+- [simulide-projetos](https://github.com/Vittin019/simulide-projetos) — Circuitos de lógica digital no SimulIDE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vittin019/Vittin019/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vittin019/Vittin019/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Vittin019/Vittin019/output/github-snake.svg">
+</picture>
